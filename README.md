@@ -14,5 +14,6 @@ Set a module name
 ![](/Assets/moduleName.jpg)
 
 Now you can use template code in your project
+
 ![](/Assets/folder.jpg)
 
