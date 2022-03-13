@@ -7,13 +7,13 @@ To make this template available just place this folder "MVPModuleXIB" into this 
 
 ## How to use
 To get started You just need to click File -> New -> File… (or press command+N)
-Choose file You want to add and set a module name
+Choose file You want to add and set a module name:
 ![](/Assets/addMVPFiles.jpg)
 
-Set a module name
+Set a module name:
 ![](/Assets/moduleName.jpg)
 
-Now you can use template code in your project
+Now you can use template code in your project:
 
 ![](/Assets/folder.jpg)
 
